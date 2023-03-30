@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_economy.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_economy.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.noknok.app-main-33:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_popularhousecard6.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_popularhousecard6.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_google.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_google.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_onboarding10.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_onboarding10.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_discovermediadata5.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_discovermediadata5.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_recentlistimage3.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_recentlistimage3.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_popularhousecard3.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_popularhousecard3.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_headerimg.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_headerimg.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_apple.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_apple.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_technology.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_technology.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_proficpic3.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_proficpic3.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_discovermediadata4.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_discovermediadata4.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_quotes3.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_quotes3.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_popularhousecard7.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_popularhousecard7.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_popularhousecard4.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_popularhousecard4.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_profilepic4.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_profilepic4.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_onboarding9.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_onboarding9.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_interviewimg.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_interviewimg.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_onboarding1.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_onboarding1.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_popularhousecard1.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_popularhousecard1.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_facbook.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_facbook.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_quotes4.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_quotes4.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_recentlistimage1.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_recentlistimage1.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_discovermediadata3.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_discovermediadata3.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_popularhousecard5.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_popularhousecard5.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_quotes1.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_quotes1.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_coolectionpic.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_coolectionpic.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_popularhousecard8.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_popularhousecard8.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_mediahousedata.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_mediahousedata.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_recentlistimage2.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_recentlistimage2.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_discovermediadata2.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_discovermediadata2.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_deerpic.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_deerpic.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_profilepic2.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_profilepic2.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_profilepic.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_profilepic.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_discovermediadata.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_discovermediadata.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_quotes2.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_quotes2.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.noknok.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.noknok.app-merged_res-31:/drawable-mdpi_src_assets_photos_popularhousecard2.png.flat",
+        "source": "com.noknok.app-main-33:/drawable-mdpi/src_assets_photos_popularhousecard2.png"
+    }
+]
